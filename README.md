@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter , SSIS Data Warehouse**
 
-- 💬 Ask me about **Java , JavaScript , C++ , C# , Flutter , .NET ,**
+- 💬 Ask me about **Java , JavaScript , C++ , C# , Flutter , .NET , ReactJs , NodeJs**
 
 - 📫 How to reach me **zinal301chauhan@gmail.com**
 
